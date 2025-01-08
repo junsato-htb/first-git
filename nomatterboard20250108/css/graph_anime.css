@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.bar-rank,
+.bar-user{
+  width:0;
+  transition: width 1s ease;
+}
+.bar-user_value,
+.average-bar{
+  opacity: 0;
+  transition: opacity .5s ease;
+}
+.bar-user_value.end_anime,
+.average-bar.end_anime
+{
+  opacity: 1;
+}
+

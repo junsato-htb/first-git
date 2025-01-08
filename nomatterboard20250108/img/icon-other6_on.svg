@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="70" viewBox="0 0 80 70">
+  <g id="icon-other6" transform="translate(-579 -4395)">
+    <rect id="Rectangle_751" data-name="Rectangle 751" width="80" height="70" transform="translate(579 4395)" fill="none"/>
+    <g id="Group_1351" data-name="Group 1351" transform="translate(595 4406)">
+      <g id="Group_678" data-name="Group 678" transform="translate(0)">
+        <path id="Path_2898" data-name="Path 2898" d="M1357.747,558.094a23.6,23.6,0,1,1,23.6-23.6A23.628,23.628,0,0,1,1357.747,558.094Zm0-44.924a21.322,21.322,0,1,0,21.322,21.322A21.346,21.346,0,0,0,1357.747,513.17Z" transform="translate(-1334.145 -510.891)" fill="#fff"/>
+      </g>
+      <g id="Group_682" data-name="Group 682" transform="translate(11.809 21.355)">
+        <g id="Group_679" data-name="Group 679">
+          <ellipse id="Ellipse_189" data-name="Ellipse 189" cx="2.246" cy="2.246" rx="2.246" ry="2.246" fill="#fff"/>
+        </g>
+        <g id="Group_680" data-name="Group 680" transform="translate(9.546)">
+          <ellipse id="Ellipse_190" data-name="Ellipse 190" cx="2.246" cy="2.246" rx="2.246" ry="2.246" fill="#fff"/>
+        </g>
+        <g id="Group_681" data-name="Group 681" transform="translate(19.093)">
+          <ellipse id="Ellipse_191" data-name="Ellipse 191" cx="2.246" cy="2.246" rx="2.246" ry="2.246" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
